@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.ncd
+OUTFILE=/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s700an-4fgg484
+WORKINGDIR=/home/lukas/ISE_PROJETOS/ULAv2
+LICENSE=WebPack
+USER_INFO=211590755_0_0_733

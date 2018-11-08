@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/media/LUKAS/ULAv2/impact.xsl
+OUTFILE=/media/LUKAS/ULAv2/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/media/LUKAS/ULAv2
+LICENSE=iMPACT
+USER_INFO=iMPACT

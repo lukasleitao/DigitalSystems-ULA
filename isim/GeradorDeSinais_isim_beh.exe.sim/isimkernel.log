@@ -1,0 +1,29 @@
+Command line:
+   GeradorDeSinais_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  33457
+
+Thu Oct 25 14:34:18 2018
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 196.432 Meg
+
+ Total Signals          : 346
+ Total Nets             : 211
+ Total Signal Drivers   : 126
+ Total Blocks           : 60
+ Total Primitive Blocks : 43
+ Total Processes        : 116
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 571
+Total Line Count : 171
+
+ Total Simulation Time: 0.09 sec
+
+ Current Memory Usage: 271.933 Meg
+
+Thu Oct 25 14:41:24 2018
+

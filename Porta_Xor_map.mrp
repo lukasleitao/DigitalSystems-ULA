@@ -1,0 +1,12 @@
+Release 14.7 Map P.20131013 (lin64)
+Xilinx Mapping Report File for Design 'Porta_Xor'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr
+off -c 100 -o Porta_Xor_map.ncd Porta_Xor.ngd Porta_Xor.pcf 
+Target Device  : xc3s700an
+Target Package : fgg484
+Target Speed   : -4
+Mapper Version : spartan3a -- $Revision: 1.55 $
+Mapped Date    : Fri Sep 21 14:29:28 2018

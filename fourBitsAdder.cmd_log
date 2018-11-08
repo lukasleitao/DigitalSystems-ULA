@@ -1,0 +1,19 @@
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.xst" -ofn "C:/Users/nando/Desktop/UFRJ/6 periodo/SD/LAB/PrimeiroTrabalho/full_Adder/fourBitsAdder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 "fourBitsAdder.ngc" fourBitsAdder.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o fourBitsAdder_map.ncd fourBitsAdder.ngd fourBitsAdder.pcf 
+par -w -intstyle ise -ol high -t 1 fourBitsAdder_map.ncd fourBitsAdder.ncd fourBitsAdder.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml fourBitsAdder.twx fourBitsAdder.ncd -o fourBitsAdder.twr fourBitsAdder.pcf 
+xst -intstyle ise -ifn "/home/sd/Desktop/full_Adder/fourBitsAdder.xst" -ofn "/home/sd/Desktop/full_Adder/fourBitsAdder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 fourBitsAdder.ngc fourBitsAdder.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o fourBitsAdder_map.ncd fourBitsAdder.ngd fourBitsAdder.pcf 
+par -w -intstyle ise -ol high -t 1 fourBitsAdder_map.ncd fourBitsAdder.ncd fourBitsAdder.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml fourBitsAdder.twx fourBitsAdder.ncd -o fourBitsAdder.twr fourBitsAdder.pcf 

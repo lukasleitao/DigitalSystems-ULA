@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/sd/Desktop/full_Adder/incrementador.xst" -ofn "/home/sd/Desktop/full_Adder/incrementador.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 incrementador.ngc incrementador.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o incrementador_map.ncd incrementador.ngd incrementador.pcf 
+par -w -intstyle ise -ol high -t 1 incrementador_map.ncd incrementador.ncd incrementador.pcf 
+par -w -intstyle ise -ol high -t 1 incrementador_map.ncd incrementador.ncd incrementador.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml incrementador.twx incrementador.ncd -o incrementador.twr incrementador.pcf 

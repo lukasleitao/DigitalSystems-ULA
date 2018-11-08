@@ -1,0 +1,79 @@
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/sd/Desktop/full_Adder/multiplicaFourBits.xst" -ofn "/home/sd/Desktop/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/sd/Desktop/full_Adder/multiplicaFourBits.xst" -ofn "/home/sd/Desktop/full_Adder/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder_final/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder_final/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder_final/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder_final/multiplicaFourBits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700an-fgg484-4 multiplicaFourBits.ngc multiplicaFourBits.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o multiplicaFourBits_map.ncd multiplicaFourBits.ngd multiplicaFourBits.pcf 
+par -w -intstyle ise -ol high -t 1 multiplicaFourBits_map.ncd multiplicaFourBits.ncd multiplicaFourBits.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplicaFourBits.twx multiplicaFourBits.ncd -o multiplicaFourBits.twr multiplicaFourBits.pcf 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/full_Adder_final/multiplicaFourBits.xst" -ofn "/home/lukas/ISE_PROJETOS/full_Adder_final/multiplicaFourBits.syr" 

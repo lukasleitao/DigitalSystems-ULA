@@ -1,0 +1,161 @@
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULA/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/media/LUKAS/ULAv2/GeradorDeSinais.xst" -ofn "/media/LUKAS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+xst -intstyle ise -ifn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.xst" -ofn "/home/lukas/ISE_PROJETOS/ULAv2/GeradorDeSinais.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc S3_original.ucf -p xc3s700an-fgg484-4 GeradorDeSinais.ngc GeradorDeSinais.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o GeradorDeSinais_map.ncd GeradorDeSinais.ngd GeradorDeSinais.pcf 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml GeradorDeSinais.twx GeradorDeSinais.ncd -o GeradorDeSinais.twr GeradorDeSinais.pcf -ucf S3_original.ucf 
+bitgen -intstyle ise -f GeradorDeSinais.ut GeradorDeSinais.ncd 
+par -w -intstyle ise -ol high -t 1 GeradorDeSinais_map.ncd GeradorDeSinais.ncd GeradorDeSinais.pcf 
