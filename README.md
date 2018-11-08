@@ -1,1 +1,3 @@
-# SD_Bin_OP-ULA-
+# ULA:
+
+- Relatório com explicação do funcionamento da ULA num PDF na pasta "Relatorio".
