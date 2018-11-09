@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-11-08T19:35:44</DateModified>
+  <DateModified>2018-11-08T23:28:56</DateModified>
   <ModuleName>GeradorDeSinais</ModuleName>
   <SummaryTimeStamp>2018-11-08T19:19:47</SummaryTimeStamp>
-  <SavedFilePath>/home/lukas/ISE_PROJETOS/SD_Bin_OP-ULA-/iseconfig/GeradorDeSinais.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/lukas/ISE_PROJETOS/SD_Bin_OP-ULA-/</ImplementationReportsDirectory>
+  <SavedFilePath>/home/lukas/ISE_PROJETOS/DigitalSystems-ULA/iseconfig/GeradorDeSinais.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/lukas/ISE_PROJETOS/DigitalSystems-ULA/</ImplementationReportsDirectory>
   <DateInitialized>2018-09-30T12:31:28</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

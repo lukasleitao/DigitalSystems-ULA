@@ -1,2 +1,0 @@
-vhdl isim_temp "fullAdder.vhd"
-vhdl isim_temp "fullAdderSimulation.vhd"

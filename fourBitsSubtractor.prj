@@ -1,4 +1,0 @@
-vhdl work "fullAdder.vhd"
-vhdl work "inverter.vhd"
-vhdl work "fourBitsAdder.vhd"
-vhdl work "fourBitsSubstractor.vhd"
